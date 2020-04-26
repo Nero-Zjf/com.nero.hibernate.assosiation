@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="oneway-ntoone-notable" />
+        <module name="oneway-oneton-withtable" />
+        <module name="oneway-onetoone-notable" />
+        <module name="oneway-oneton-notable" />
+        <module name="bothway-oneton-withtable" />
+        <module name="bothway-oneton-notable" />
+        <module name="oneway-ntoone-withtable" />
+        <module name="bothway-nton-withtable" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="oneway-ntoone-withtable" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
